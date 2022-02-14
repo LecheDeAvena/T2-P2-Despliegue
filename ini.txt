@@ -1,1 +1,2 @@
 "Ejercicio 1: Configurar Git" 
+"Ejercicio 2: iniciar Git" 
